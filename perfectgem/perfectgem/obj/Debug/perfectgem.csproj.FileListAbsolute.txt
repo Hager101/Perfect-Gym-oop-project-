@@ -1,0 +1,79 @@
+C:\Users\dell\source\repos\perfectgem\perfectgem\bin\Debug\perfectgem.exe.config
+C:\Users\dell\source\repos\perfectgem\perfectgem\bin\Debug\perfectgem.exe
+C:\Users\dell\source\repos\perfectgem\perfectgem\bin\Debug\perfectgem.pdb
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.Form1.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.Health_advice.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.Home.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.My_fitness_plan.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.Properties.Resources.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.Sign_up.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.exe
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.pdb
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.Calendar.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.Feedback.resources
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\perfectgem\perfectgem\obj\Debug\perfectgem.About_us.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\bin\Debug\perfectgem.exe.config
+D:\manar\A Monster Calls\perfectgem\perfectgem\bin\Debug\perfectgem.exe
+D:\manar\A Monster Calls\perfectgem\perfectgem\bin\Debug\perfectgem.pdb
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.About_us.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.Feedback.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.Form1.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.Health_advice.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.Home.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.My_fitness_plan.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.Properties.Resources.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.Sign_up.resources
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.GenerateResource.cache
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.CoreCompileInputs.cache
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.exe
+D:\manar\A Monster Calls\perfectgem\perfectgem\obj\Debug\perfectgem.pdb
+C:\Users\dell\Downloads\perfectgem\perfectgem\bin\Debug\perfectgem.exe.config
+C:\Users\dell\Downloads\perfectgem\perfectgem\bin\Debug\perfectgem.exe
+C:\Users\dell\Downloads\perfectgem\perfectgem\bin\Debug\perfectgem.pdb
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.About_us.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.Feedback.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.Form1.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.Health_advice.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.Home.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.My_fitness_plan.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.Properties.Resources.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.Sign_up.resources
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.exe
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.pdb
+C:\Users\dell\Downloads\perfectgem\perfectgem\obj\Debug\perfectgem.csprojAssemblyReference.cache
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.exe
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.pdb
+C:\Users\hhk\Desktop\perfectgem\perfectgem\bin\Debug\perfectgem.exe.config
+C:\Users\hhk\Desktop\perfectgem\perfectgem\bin\Debug\perfectgem.exe
+C:\Users\hhk\Desktop\perfectgem\perfectgem\bin\Debug\perfectgem.pdb
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.About_us.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.Feedback.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.Form1.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.Health_advice.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.Home.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.My_fitness_plan.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.Properties.Resources.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.Sign_up.resources
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.GenerateResource.cache
+C:\Users\hhk\Desktop\perfectgem\perfectgem\obj\Debug\perfectgem.csprojAssemblyReference.cache
+D:\manar\Allied\perfectgem\perfectgem\bin\Debug\perfectgem.exe.config
+D:\manar\Allied\perfectgem\perfectgem\bin\Debug\perfectgem.exe
+D:\manar\Allied\perfectgem\perfectgem\bin\Debug\perfectgem.pdb
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.csprojAssemblyReference.cache
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.About_us.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.Feedback.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.Form1.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.Health_advice.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.Home.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.My_fitness_plan.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.Properties.Resources.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.Sign_up.resources
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.GenerateResource.cache
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.csproj.CoreCompileInputs.cache
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.exe
+D:\manar\Allied\perfectgem\perfectgem\obj\Debug\perfectgem.pdb
